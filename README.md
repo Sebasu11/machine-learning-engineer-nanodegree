@@ -1,2 +1,3 @@
-# machine-learning-engineer-nanodegree
-machine-learning-engineer-nanodegree repository contains all project files
+# Machine Learning Engineer Nanodegree - Udacity
+
+Repository contains all project files
