@@ -4,7 +4,7 @@ This repository contains code and associated files for deploying a plagiarism de
 
 ## Project Overview
 
-In this project is built  a plagiarism detector that examines a text file and performs binary classification; labels are either *plagiarized* or *not*, depending on how similar that text file is to a provided source text. 
+In this project a plagiarism detector was built, it examines a text file and performs binary classification; labels are either *plagiarized* or *not*, depending on how similar that text file is to a provided source text. 
 
 This project will be broken down into three main notebooks:
 
