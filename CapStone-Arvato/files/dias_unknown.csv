@@ -1,0 +1,290 @@
+Attribute;Meaning;Value;Unknown_0;Unknown_1
+AGER_TYP;unknown;-1;;
+ALTERSKATEGORIE_GROB;unknown;-1, 0;-1; 0
+ALTER_HH;unknown / no main age detectable;0;;
+ANREDE_KZ;unknown;-1, 0;-1; 0
+BALLRAUM;unknown;-1;;
+BIP_FLAG;unknown;-1;;
+CAMEO_DEUG_2015;unknown;-1;;
+CAMEO_DEUINTL_2015;unknown;-1;;
+CJT_GESAMTTYP;unknown;0;;
+D19_BANKEN_ANZ_12;no transactions known;0;;
+D19_BANKEN_ANZ_24;no transactions known;0;;
+D19_BANKEN_DATUM;no transactions known;10;;
+D19_BANKEN_DIREKT;no transaction known;0;;
+D19_BANKEN_GROSS;no transaction known;0;;
+D19_BANKEN_LOKAL;no transaction known;0;;
+D19_BANKEN_OFFLINE_DATUM;no transactions known;10;;
+D19_BANKEN_ONLINE_DATUM;no transactions known;10;;
+D19_BANKEN_REST;no transaction known;0;;
+D19_BEKLEIDUNG_GEH;no transaction known;0;;
+D19_BEKLEIDUNG_REST;no transaction known;0;;
+D19_BILDUNG;no transaction known;0;;
+D19_BIO_OEKO;no transaction known;0;;
+D19_BUCH;no transaction known;0;;
+D19_DIGIT_SERV;no transaction known;0;;
+D19_DROGERIEARTIKEL;no transaction known;0;;
+D19_ENERGIE;no transaction known;0;;
+D19_FREIZEIT;no transaction known;0;;
+D19_GARTEN;no transaction known;0;;
+D19_GESAMT_ANZ_12;no transactions known;0;;
+D19_GESAMT_ANZ_24;no transactions known;0;;
+D19_GESAMT_DATUM;no transactions known;10;;
+D19_GESAMT_OFFLINE_DATUM;no transactions known;10;;
+D19_GESAMT_ONLINE_DATUM;no transactions known;10;;
+D19_HANDWERK;no transaction known;0;;
+D19_HAUS_DEKO;no transaction known;0;;
+D19_KINDERARTIKEL;no transaction known;0;;
+D19_KK_KUNDENTYP;unknown;-1;;
+D19_KOSMETIK;no transaction known;0;;
+D19_LEBENSMITTEL;no transaction known;0;;
+D19_LOTTO;no transaction known;0;;
+D19_NAHRUNGSERGAENZUNG;no transaction known;0;;
+D19_RATGEBER;no transaction known;0;;
+D19_REISEN;no transaction known;0;;
+D19_SAMMELARTIKEL;no transaction known;0;;
+D19_SCHUHE;no transaction known;0;;
+D19_SONSTIGE;no transaction known;0;;
+D19_TECHNIK;no transaction known;0;;
+D19_TELKO_ANZ_12;no transactions known;0;;
+D19_TELKO_ANZ_24;no transactions known;0;;
+D19_TELKO_DATUM;no transactions known;10;;
+D19_TELKO_MOBILE;no transaction known;0;;
+D19_TELKO_OFFLINE_DATUM;no transactions known;10;;
+D19_TELKO_ONLINE_DATUM;no transactions known;10;;
+D19_TELKO_REST;no transaction known;0;;
+D19_TIERARTIKEL;no transaction known;0;;
+D19_VERSAND_ANZ_12;no transactions known;0;;
+D19_VERSAND_ANZ_24;no transactions known;0;;
+D19_VERSAND_DATUM;no transactions known;10;;
+D19_VERSAND_OFFLINE_DATUM;no transactions known;10;;
+D19_VERSAND_ONLINE_DATUM;no transactions known;10;;
+D19_VERSAND_REST;no transaction known;0;;
+D19_VERSICHERUNGEN;no transaction known;0;;
+D19_VERSI_ANZ_12;no transactions known;0;;
+D19_VERSI_ANZ_24;no transactions known;0;;
+D19_VOLLSORTIMENT;no transaction known;0;;
+D19_WEIN_FEINKOST;no transaction known;0;;
+EWDICHTE;unknown;-1;;
+FINANZTYP;unknown;-1;;
+FINANZ_ANLEGER;unknown;-1;;
+FINANZ_HAUSBAUER;unknown;-1;;
+FINANZ_MINIMALIST;unknown;-1;;
+FINANZ_SPARER;unknown;-1;;
+FINANZ_UNAUFFAELLIGER;unknown;-1;;
+FINANZ_VORSORGER;unknown;-1;;
+GEBAEUDETYP;unknown;-1, 0;-1; 0
+GEOSCORE_KLS7;unknown;-1, 0;-1; 0
+HAUSHALTSSTRUKTUR;unknown;-1, 0;-1; 0
+HEALTH_TYP;unknown;-1;;
+HH_EINKOMMEN_SCORE;unknown;-1, 0;-1; 0
+INNENSTADT;unknown;-1;;
+KBA05_ALTER1;unknown;-1, 9;-1; 9
+KBA05_ALTER2;unknown;-1, 9;-1; 9
+KBA05_ALTER3;unknown;-1, 9;-1; 9
+KBA05_ALTER4;unknown;-1, 9;-1; 9
+KBA05_ANHANG;unknown;-1, 9;-1; 9
+KBA05_ANTG1;unknown;-1;;
+KBA05_ANTG2;unknown;-1;;
+KBA05_ANTG3;unknown;-1;;
+KBA05_ANTG4;unknown;-1;;
+KBA05_AUTOQUOT;unknown;-1, 9;-1; 9
+KBA05_BAUMAX;unknown;-1, 0;-1; 0
+KBA05_CCM1;unknown;-1, 9;-1; 9
+KBA05_CCM2;unknown;-1, 9;-1; 9
+KBA05_CCM3;unknown;-1, 9;-1; 9
+KBA05_CCM4;unknown;-1, 9;-1; 9
+KBA05_DIESEL;unknown;-1, 9;-1; 9
+KBA05_FRAU;unknown;-1, 9;-1; 9
+KBA05_GBZ;unknown;-1, 0;-1; 0
+KBA05_HERST1;unknown;-1, 9;-1; 9
+KBA05_HERST2;unknown;-1, 9;-1; 9
+KBA05_HERST3;unknown;-1, 9;-1; 9
+KBA05_HERST4;unknown;-1, 9;-1; 9
+KBA05_HERST5;unknown;-1, 9;-1; 9
+KBA05_HERSTTEMP;unknown;-1, 9;-1; 9
+KBA05_KRSAQUOT;unknown;-1, 9;-1; 9
+KBA05_KRSHERST1;unknown;-1, 9;-1; 9
+KBA05_KRSHERST2;unknown;-1, 9;-1; 9
+KBA05_KRSHERST3;unknown;-1, 9;-1; 9
+KBA05_KRSKLEIN;unknown;-1, 9;-1; 9
+KBA05_KRSOBER;unknown;-1, 9;-1; 9
+KBA05_KRSVAN;unknown;-1, 9;-1; 9
+KBA05_KRSZUL;unknown;-1, 9;-1; 9
+KBA05_KW1;unknown;-1, 9;-1; 9
+KBA05_KW2;unknown;-1, 9;-1; 9
+KBA05_KW3;unknown;-1, 9;-1; 9
+KBA05_MAXAH;unknown;-1, 9;-1; 9
+KBA05_MAXBJ;unknown;-1, 9;-1; 9
+KBA05_MAXHERST;unknown;-1, 9;-1; 9
+KBA05_MAXSEG;unknown;-1, 9;-1; 9
+KBA05_MAXVORB;unknown;-1, 9;-1; 9
+KBA05_MOD1;unknown;-1, 9;-1; 9
+KBA05_MOD2;unknown;-1, 9;-1; 9
+KBA05_MOD3;unknown;-1, 9;-1; 9
+KBA05_MOD4;unknown;-1, 9;-1; 9
+KBA05_MOD8;unknown;-1, 9;-1; 9
+KBA05_MODTEMP;unknown;-1, 9;-1; 9
+KBA05_MOTOR;unknown;-1, 9;-1; 9
+KBA05_MOTRAD;unknown;-1, 9;-1; 9
+KBA05_SEG1;unknown;-1, 9;-1; 9
+KBA05_SEG10;unknown;-1, 9;-1; 9
+KBA05_SEG2;unknown;-1, 9;-1; 9
+KBA05_SEG3;unknown;-1, 9;-1; 9
+KBA05_SEG4;unknown;-1, 9;-1; 9
+KBA05_SEG5;unknown;-1, 9;-1; 9
+KBA05_SEG6;unknown;-1, 9;-1; 9
+KBA05_SEG7;unknown;-1, 9;-1; 9
+KBA05_SEG8;unknown;-1, 9;-1; 9
+KBA05_SEG9;unknown;-1, 9;-1; 9
+KBA05_VORB0;unknown;-1, 9;-1; 9
+KBA05_VORB1;unknown;-1, 9;-1; 9
+KBA05_VORB2;unknown;-1, 9;-1; 9
+KBA05_ZUL1;unknown;-1, 9;-1; 9
+KBA05_ZUL2;unknown;-1, 9;-1; 9
+KBA05_ZUL3;unknown;-1, 9;-1; 9
+KBA05_ZUL4;unknown;-1, 9;-1; 9
+KBA13_ALTERHALTER_30;unknown;-1;;
+KBA13_ALTERHALTER_45;unknown;-1;;
+KBA13_ALTERHALTER_60;unknown;-1;;
+KBA13_ALTERHALTER_61;unknown;-1;;
+KBA13_AUDI;unknown;-1;;
+KBA13_AUTOQUOTE;unknown;-1;;
+KBA13_BJ_1999;unknown;-1;;
+KBA13_BJ_2000;unknown;-1;;
+KBA13_BJ_2004;unknown;-1;;
+KBA13_BJ_2006;unknown;-1;;
+KBA13_BJ_2008;unknown;-1;;
+KBA13_BJ_2009;unknown;-1;;
+KBA13_BMW;unknown;-1;;
+KBA13_CCM_0_1400;unknown;-1;;
+KBA13_CCM_1000;unknown;-1;;
+KBA13_CCM_1200;unknown;-1;;
+KBA13_CCM_1400;unknown;-1;;
+KBA13_CCM_1400_2500;unknown;-1;;
+KBA13_CCM_1500;unknown;-1;;
+KBA13_CCM_1600;unknown;-1;;
+KBA13_CCM_1800;unknown;-1;;
+KBA13_CCM_2000;unknown;-1;;
+KBA13_CCM_2500;unknown;-1;;
+KBA13_CCM_2501;unknown;-1;;
+KBA13_CCM_3000;unknown;-1;;
+KBA13_CCM_3001;unknown;-1;;
+KBA13_FAB_ASIEN;unknown;-1;;
+KBA13_FAB_SONSTIGE;unknown;-1;;
+KBA13_FIAT;unknown;-1;;
+KBA13_FORD;unknown;-1;;
+KBA13_HALTER_20;unknown;-1;;
+KBA13_HALTER_25;unknown;-1;;
+KBA13_HALTER_30;unknown;-1;;
+KBA13_HALTER_35;unknown;-1;;
+KBA13_HALTER_40;unknown;-1;;
+KBA13_HALTER_45;unknown;-1;;
+KBA13_HALTER_50;unknown;-1;;
+KBA13_HALTER_55;unknown;-1;;
+KBA13_HALTER_60;unknown;-1;;
+KBA13_HALTER_65;unknown;-1;;
+KBA13_HALTER_66;unknown;-1;;
+KBA13_HERST_ASIEN;unknown;-1;;
+KBA13_HERST_AUDI_VW;unknown;-1;;
+KBA13_HERST_BMW_BENZ;unknown;-1;;
+KBA13_HERST_EUROPA;unknown;-1;;
+KBA13_HERST_FORD_OPEL;unknown;-1;;
+KBA13_HERST_SONST;unknown;-1;;
+KBA13_KMH_0_140;unknown;-1;;
+KBA13_KMH_110;unknown;-1;;
+KBA13_KMH_140;unknown;-1;;
+KBA13_KMH_140_210;unknown;-1;;
+KBA13_KMH_180;unknown;-1;;
+KBA13_KMH_211;unknown;-1;;
+KBA13_KMH_250;unknown;-1;;
+KBA13_KMH_251;unknown;-1;;
+KBA13_KRSAQUOT;unknown;-1;;
+KBA13_KRSHERST_AUDI_VW;unknown;-1;;
+KBA13_KRSHERST_BMW_BENZ;unknown;-1;;
+KBA13_KRSHERST_FORD_OPEL;unknown;-1;;
+KBA13_KRSSEG_KLEIN;unknown;-1;;
+KBA13_KRSSEG_OBER;unknown;-1;;
+KBA13_KRSSEG_VAN;unknown;-1;;
+KBA13_KRSZUL_NEU;unknown;-1;;
+KBA13_KW_0_60;unknown;-1;;
+KBA13_KW_110;unknown;-1;;
+KBA13_KW_120;unknown;-1;;
+KBA13_KW_121;unknown;-1;;
+KBA13_KW_30;unknown;-1;;
+KBA13_KW_40;unknown;-1;;
+KBA13_KW_50;unknown;-1;;
+KBA13_KW_60;unknown;-1;;
+KBA13_KW_61_120;unknown;-1;;
+KBA13_KW_70;unknown;-1;;
+KBA13_KW_80;unknown;-1;;
+KBA13_KW_90;unknown;-1;;
+KBA13_MAZDA;unknown;-1;;
+KBA13_MERCEDES;unknown;-1;;
+KBA13_MOTOR;unknown;-1;;
+KBA13_NISSAN;unknown;-1;;
+KBA13_OPEL;unknown;-1;;
+KBA13_PEUGEOT;unknown;-1;;
+KBA13_RENAULT;unknown;-1;;
+KBA13_SEG_GELAENDEWAGEN;unknown;-1;;
+KBA13_SEG_GROSSRAUMVANS;unknown;-1;;
+KBA13_SEG_KLEINST;unknown;-1;;
+KBA13_SEG_KLEINWAGEN;unknown;-1;;
+KBA13_SEG_KOMPAKTKLASSE;unknown;-1;;
+KBA13_SEG_MINIVANS;unknown;-1;;
+KBA13_SEG_MINIWAGEN;unknown;-1;;
+KBA13_SEG_MITTELKLASSE;unknown;-1;;
+KBA13_SEG_OBEREMITTELKLASSE;unknown;-1;;
+KBA13_SEG_OBERKLASSE;unknown;-1;;
+KBA13_SEG_SONSTIGE;unknown;-1;;
+KBA13_SEG_SPORTWAGEN;unknown;-1;;
+KBA13_SEG_UTILITIES;unknown;-1;;
+KBA13_SEG_VAN;unknown;-1;;
+KBA13_SEG_WOHNMOBILE;unknown;-1;;
+KBA13_SITZE_4;unknown;-1;;
+KBA13_SITZE_5;unknown;-1;;
+KBA13_SITZE_6;unknown;-1;;
+KBA13_TOYOTA;unknown;-1;;
+KBA13_VORB_0;unknown;-1;;
+KBA13_VORB_1;unknown;-1;;
+KBA13_VORB_1_2;unknown;-1;;
+KBA13_VORB_2;unknown;-1;;
+KBA13_VORB_3;unknown;-1;;
+KBA13_VW;unknown;-1;;
+KKK;unknown;-1, 0;-1; 0
+NATIONALITAET_KZ;unknown;-1, 0;-1; 0
+ORTSGR_KLS9;unknown;-1;-1;
+OST_WEST_KZ;unknown;-1;;
+PLZ8_ANTG1;unknown;-1;;
+PLZ8_ANTG2;unknown;-1;;
+PLZ8_ANTG3;unknown;-1;;
+PLZ8_ANTG4;unknown;-1;;
+PLZ8_GBZ;unknown;-1;;
+PLZ8_HHZ;unknown;-1;;
+PRAEGENDE_JUGENDJAHRE;unknown;-1, 0;-1; 0
+REGIOTYP;unknown;-1, 0;-1; 0
+RELAT_AB;unknown;-1, 9;-1; 9
+RETOURTYP_BK_S;unknown;0;;
+SEMIO_DOM;unknown;-1, 9;-1; 9
+SEMIO_ERL;unknown;-1, 9;-1; 9
+SEMIO_FAM;unknown;-1, 9;-1; 9
+SEMIO_KAEM;unknown;-1, 9;-1; 9
+SEMIO_KRIT;unknown;-1, 9;-1; 9
+SEMIO_KULT;unknown;-1, 9;-1; 9
+SEMIO_LUST;unknown;-1, 9;-1; 9
+SEMIO_MAT;unknown;-1, 9;-1; 9
+SEMIO_PFLICHT;unknown;-1, 9;-1; 9
+SEMIO_RAT;unknown;-1, 9;-1; 9
+SEMIO_REL;unknown;-1, 9;-1; 9
+SEMIO_SOZ;unknown;-1, 9;-1; 9
+SEMIO_TRADV;unknown;-1, 9;-1; 9
+SEMIO_VERT;unknown;-1, 9;-1; 9
+SHOPPER_TYP;unknown;-1;;
+SOHO_FLAG;unknown;-1;;
+TITEL_KZ;unknown;-1, 0;-1; 0
+VERS_TYP;unknown;-1;;
+WACHSTUMSGEBIET_NB;unknown;-1, 0;-1; 0
+WOHNDAUER_2008;unknown;-1, 0;-1; 0
+WOHNLAGE;unknown;-1;;
+W_KEIT_KIND_HH;unknown;-1, 0;-1; 0
+ZABEOTYP;unknown;-1, 9;-1; 9
