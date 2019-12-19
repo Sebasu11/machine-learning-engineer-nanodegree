@@ -16,15 +16,15 @@ The goal of this project is to apply machine learning techniques in order to pre
 
 ## Software and Libraries
 
-* <NumPy>
-* <Pandas>
-* <scikit-learn>
-* <Matplotlib>
-* <Seaborn>
-* <XGBoost>
-* <CatBoost>
-* <imbalanced-learn>
-* <BorutaPy>
+* NumPy
+* Pandas
+* scikit-learn
+* Matplotlib
+* Seaborn
+* XGBoost
+* CatBoost
+* imbalanced-learn
+* BorutaPy
 
 
 ## Results of the Analysis
