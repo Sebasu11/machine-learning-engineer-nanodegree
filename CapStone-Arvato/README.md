@@ -36,7 +36,7 @@ The goal of this project is to apply machine learning techniques in order to pre
 - Using KMeans  to segment the population (into different clusters) to recommend the potential customers for the company.
 - Compare cluster assigment with a some features.
 
-[compare_clusters](img/compare_clusters.PNG)
+![compare_clusters](img/compare_clusters.PNG)
 
 58 % percent of the customers' data fit in the cluster with label 5.
 The company can take this population as future customers in Germany, since they share similarities.
@@ -50,7 +50,7 @@ The following estimators were tested :
   - RandomForest
   - CatBoost
 
-[auc](img/auc.PNG)
+![auc](img/auc.PNG)
 
 - Analyzed the feature importance  by machine learning model and compare the feature distribution between target/non-target population.
 
