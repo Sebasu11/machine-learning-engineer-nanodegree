@@ -263,6 +263,13 @@ Each of the rows in the "MAILOUT" data files represents an individual that was t
 
 The "MAILOUT" data has been split into two approximately equal parts, each with almost 43 000 data rows. In this part, you can verify your model with the "TRAIN" partition, which includes a column, "RESPONSE", that states whether or not a person became a customer of the company following the campaign. In the next part, you'll need to create predictions on the "TEST" partition, where the "RESPONSE" column has been withheld.
 
+Checking just the response feature : 
+
+![imabalanced](img/imbalanced.png)
+
+This is a highly imbalanced dataset!. 
+Only ~1% of MAILOUT_TRAIN data set are customers.
+
 MAILOUT dataset was re-enconde with the correct NaN values and those rows where drop. There are low count of the minority class, it is a higly unbalanced dataset, so loosin information of those 1 is important and avoid at all cost. 
 
 BUT after a few trials, I decided to drop every row  with the NaN cause I was getting an overfitted model, around 
@@ -279,6 +286,8 @@ Top 10 of importance features with ANOVA
 
 The [Boruta](https://www.datacamp.com/community/tutorials/feature-selection-R-boruta#boruta) algorithm is a wrapper built around the random forest classification algorithm. It tries to capture all the important/ interesting features with respect to an outcome variable.
 Boruta confirmed the following variables: 
+
+- D19_SOZIALES, D19_KONSUMTYP, D19_KONSUMTYP_MAX, RT_SCHNAEPPCHEN
 
 The final features used were decide with the following criteria : 
 I kept the features found by Boruta + ANOVA Top 10
@@ -376,7 +385,7 @@ Therefore XGBoostClassifier was selected.
 
 Analyzing feature importance of the final model : 
 
-![feature_importance](img/feature_importance)
+![feature_importance](img/feature_importance.PNG)
 
 in every iterations D19_SOZIALES was always the most importance feature, therefore I will analyze this feature to understand why is so important. 
 

@@ -11,6 +11,7 @@ The goal of this project is to apply machine learning techniques in order to pre
 
 -  Jupyter Notebook for Customer segmentation.
 -  Jupyter Notebook for Supervised Model.
+-  REPORT.md
 -  utils  is a collection of small Python functions.
 -  data_types.csv,dias_unknown.csv,mixed_features.xlsx Auxiliary files.
 
